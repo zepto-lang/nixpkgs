@@ -131,6 +131,7 @@
   guibert = "David Guibert <david.guibert@gmail.com>";
   havvy = "Ryan Scheel <ryan.havvy@gmail.com>";
   hbunke = "Hendrik Bunke <bunke.hendrik@gmail.com>";
+  hellerve = "Veit Heller <veit@veitheller.de>";
   henrytill = "Henry Till <henrytill@gmail.com>";
   hiberno = "Christian Lask <mail@elfsechsundzwanzig.de>";
   hinton = "Tom Hinton <t@larkery.com>";

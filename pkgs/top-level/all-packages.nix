@@ -5207,6 +5207,8 @@ let
   love_luajit = callPackage ../development/interpreters/love {lua=luajit;};
   love_0_9 = callPackage ../development/interpreters/love/0.9.nix { };
 
+  zepto = callPackage ../development/interpreters/zepto { };
+
   ### LUA MODULES
 
   lua4 = callPackage ../development/interpreters/lua-4 { };
